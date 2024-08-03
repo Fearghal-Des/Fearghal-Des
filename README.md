@@ -1,6 +1,6 @@
 - 👋 Hi. I'm Fearghal
 - 🏗️ Currently building [Induct](https://induct.ie), an access management system
 - 🤖 Studying Electrical Engineering at UCC
-- 🍀 Learning React and Typescript
+- 🍀 Programming in React, Typescript and C++
 - 🏃‍♂️ Running 5Ks
 - 🚀 Message me [here](mailto:fearghal.desmond@gmail.com)
