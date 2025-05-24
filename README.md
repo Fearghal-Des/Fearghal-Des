@@ -2,5 +2,5 @@
 - 🏗️ Currently building [Induct](https://induct.ie), an access management system
 - 🤖 Studying Electrical Engineering at UCC
 - 🍀 Programming in React, Typescript and C++
-- 🏃‍♂️ Running 5Ks
+- 🏃‍♂️ Running Half Marathons and 5Ks
 - 🚀 Message me [here](mailto:fearghal.desmond@gmail.com)
